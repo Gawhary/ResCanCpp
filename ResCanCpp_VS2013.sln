@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResCanCpp_VS2013", "ResCanCpp_VS2013\ResCanCpp_VS2013.vcxproj", "{3559B664-8149-455D-9922-7B6A5868BBC0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResCanCppGUI_VS2013", "ResCanCppGUI\ResCanCppGUI_VS2013.vcxproj", "{E5090BCE-BA8B-4262-A2B2-6164E2C1E7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3559B664-8149-455D-9922-7B6A5868BBC0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3559B664-8149-455D-9922-7B6A5868BBC0}.Debug|Win32.Build.0 = Debug|Win32
+		{3559B664-8149-455D-9922-7B6A5868BBC0}.Release|Win32.ActiveCfg = Release|Win32
+		{3559B664-8149-455D-9922-7B6A5868BBC0}.Release|Win32.Build.0 = Release|Win32
+		{E5090BCE-BA8B-4262-A2B2-6164E2C1E7AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5090BCE-BA8B-4262-A2B2-6164E2C1E7AD}.Debug|Win32.Build.0 = Debug|Win32
+		{E5090BCE-BA8B-4262-A2B2-6164E2C1E7AD}.Release|Win32.ActiveCfg = Release|Win32
+		{E5090BCE-BA8B-4262-A2B2-6164E2C1E7AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
